@@ -1,0 +1,1 @@
+This code uses a label to ouput prime numbers. This is the last exercise from https://javascript.info/while-for
